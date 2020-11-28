@@ -1,0 +1,21 @@
+---
+layout: post
+title: npm 서버 실행 오류(npm ERR! code ELIFECYCLE)
+tags: [npm, 오류 해결, server]
+excerpt_separator: <!--more-->
+---
+
+서버를 연결하고 npm start 명령어를 입력했을 때, 아래와 같은 에러 메세지가 뜨는 경우가 있다.
+> npm ERR! code ELIFECYCLE
+
+해결 방법은 다음과 같다.
+
+1. pm cache clean --force
+
+* Consectetur adipiscing elit
+* Donec a diam lectus
+* Sed sit amet ipsum mauris
+
+
+[^1]: 
+    {% include citation.html key="ref1" %}
