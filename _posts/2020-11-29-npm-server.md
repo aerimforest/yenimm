@@ -11,7 +11,7 @@ excerpt_separator: <!--more-->
 > npm ERR! code ELIFECYCLE
 
 
-해결 방법은 다음과 같다.
+###해결 방법
 
 
 ```bash
