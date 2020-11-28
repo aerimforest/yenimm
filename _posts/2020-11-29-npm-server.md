@@ -9,9 +9,8 @@ excerpt_separator: <!--more-->
 
 서버를 연결하고 `npm start` 명령어를 입력했을 때, 아래와 같은 에러 메세지가 뜨는 경우가 있다.
 > npm ERR! code ELIFECYCLE
-&Newline;&Newline;
-
-
+\
+\
 ### 해결 방법
 
 
