@@ -3,7 +3,7 @@ layout: post
 title: npm 서버 실행 오류(npm ERR! code ELIFECYCLE)
 tags: [npm, 오류 해결, server]
 color: brown
-author: aerim
+author: aerimforest
 excerpt_separator: <!--more-->
 ---
 
