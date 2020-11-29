@@ -3,7 +3,7 @@ layout: post
 title: npm 서버 실행 오류(npm ERR! code ELIFECYCLE)
 tags: [npm, 오류 해결, server]
 color: brown
-author: yj607
+author: aerimforest
 excerpt_separator: <!--more-->
 ---
 
@@ -33,7 +33,3 @@ $ npm start
 <br><br>
 #### 서버 종료
 > ctrl + C
-
-
-[^1]: 
-    {% include citation.html key="ref1" %}
