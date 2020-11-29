@@ -18,7 +18,7 @@ excerpt_separator: <!--more-->
 
 
 ```bash
-$ pm cache clean --force
+$ npm cache clean --force
 $ rm -rf node_modules // node_modules 폴더 제거
 $ npm install
 $ npm start
