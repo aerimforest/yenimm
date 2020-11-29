@@ -30,6 +30,9 @@ $ npm start
 
 이후 `http://localhost:포트넘버`로 접속하면 잘 작동하는 것을 볼 수 있다! 
 
+#### 서버 종료
+> ctrl + C
+
 
 [^1]: 
     {% include citation.html key="ref1" %}
