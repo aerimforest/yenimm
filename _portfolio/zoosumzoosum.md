@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ZOOSUMZOOSUM
-feature-img: "assets/img/portfolio/그래픽이미지.png"
+feature-img: "assets/img/portfolio/graphicImage.png"
 img: "assets/img/portfolio/zoosum_typelogo.png"
 date: 16 January 2021
 tags: [Android, Projects, Portfolio]
