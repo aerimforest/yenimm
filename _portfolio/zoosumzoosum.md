@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ZOOSUMZOOSUM
+title: 주섬주섬
 img: "assets/img/portfolio/zoosum_typelogo.png"
 date: 16 January 2021
 tags: [Android, Projects, Portfolio]
