@@ -1,7 +1,7 @@
 ---
 layout: post
 title: npm 서버 실행 오류(npm ERR! code ELIFECYCLE)
-tags: [npm, 오류 해결, server]
+tags: [npm, 오류 해결, Server]
 color: brown
 author: aerimforest
 excerpt_separator: <!--more-->
