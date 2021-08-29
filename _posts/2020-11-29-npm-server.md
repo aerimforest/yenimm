@@ -9,7 +9,7 @@ excerpt_separator: <!--more-->
 
 <br><br>
 
-<span style = " font-size:1.5em;">서버를 연결하고 `npm start` 명령어를 입력했을 때, 아래와 같은 에러 메세지가 뜨는 경우가 있다.</span>
+<span style = " font-size:2.5;">서버를 연결하고 `npm start` 명령어를 입력했을 때, 아래와 같은 에러 메세지가 뜨는 경우가 있다.</span>
 ##### 서버를 연결하고 `npm start` 명령어를 입력했을 때, 아래와 같은 에러 메세지가 뜨는 경우가 있다.
 
 > ##### npm ERR! code ELIFECYCLE
