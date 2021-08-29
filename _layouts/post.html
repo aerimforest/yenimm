@@ -33,8 +33,16 @@ layout: default
 </article>
 
 <!-- Disqus -->
-{% if site.disqus_shortname or site.theme_settings.disqus_shortname %}
-{% include disqus.html %}{% endif %}
+<!-- {% if site.disqus_shortname or site.theme_settings.disqus_shortname %}
+{% include disqus.html %}{% endif %} -->
+
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 <!-- Post navigation -->
 {% if site.post_navigation  or site.theme_settings.post_navigation %}
