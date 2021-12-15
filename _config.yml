@@ -5,7 +5,7 @@ url: "https://aerimforest.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: aerimforest                                      # site's title
 description: "Developer's blog"                         # used by search engines
-avatar: assets/img/treeIcon.png                         # Empty for no avatar in navbar
+avatar: assets/img/minoticon.png                        # Empty for no avatar in navbar
 favicon: assets/autumnTree1.ico                         # Icon displayed in the tab
 
 # Header and footer text
