@@ -6,10 +6,10 @@ url: "https://aerimforest.github.io"
 title: aerimforest                                      # site's title
 description: "Developer's blog"                         # used by search engines
 avatar: assets/img/minoticon.png                        # Empty for no avatar in navbar
-favicon: assets/autumnTree1.ico                         # Icon displayed in the tab
+favicon: assets/6b09f0112.ico                           # Icon displayed in the tab
 
 # Header and footer text
-header_text: aerimforest's blog  # Change Blog header text
+header_text: yerim's blog  # Change Blog header text
 header_feature_image: assets/img/pexels/watercolor.png
 footer_text: >
   <div>Icon creator <a href="https://www.flaticon.com/kr/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/kr/" title="Flaticon">www.flaticon.com</a></div>
